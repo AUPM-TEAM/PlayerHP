@@ -1,5 +1,5 @@
 
-© copryright Antoine31811395 2020
+© copryright TEZULS 2020
 
 FR: Je réserve tout droit de rendre le plugin publique même après achat ou donation si je n'apparaîs plus comme Author de se plugin, ou/et si mon code est réutilisé sans me créditer.
 
